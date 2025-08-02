@@ -1,2 +1,1 @@
-# hotel-app
-My hotel booking app DevOps journey
+#My Hotel Booking App
